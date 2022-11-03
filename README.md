@@ -1,1 +1,1 @@
-# THis site is live at https://freshteacher.software/nursery/
+# This site is live at https://freshteacher.software/games/
